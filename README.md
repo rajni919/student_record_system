@@ -20,4 +20,4 @@ A simple Student Record Management System built using C.
 
 ```bash
 gcc student.c -o student
-./student
+./student'''
