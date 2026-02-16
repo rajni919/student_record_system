@@ -1,36 +1,23 @@
-# Student Record Management System (C Language)
+# 🎓 Student Record System (C Language)
 
-This is a simple Student Record Management System written in C.
-# Student Record Management System (C Language)
+A simple Student Record Management System built using C.
 
-This is a simple Student Record Management System written in C.
-
-## 🎯 Project Objective
-This project demonstrates a file-based Student Record Management System built using C language. It performs complete CRUD operations and stores data using file handling concepts.
-
-## 🛠 Technologies Used
-- C Programming Language
-- GCC Compiler (MinGW)
-- File Handling (record.txt)
-- Git & GitHub
-
-
-## Features
+## 📌 Features
 - Add Student
 - View Students
 - Search Student
 - Update Student
 - Delete Student
-- Prevent Duplicate ID
+- Prevent Duplicate IDs
 - File Handling using record.txt
 
-## How to Run
+## 🛠 Tech Used
+- C Programming
+- GCC Compiler (MinGW)
+- Git & GitHub
 
-1. Compile:
-   gcc student.c -o student
+## ▶️ How to Run
 
-2. Run:
-   ./student
-
-## Author
-Rajni
+```bash
+gcc student.c -o student
+./student
